@@ -1,1 +1,3 @@
-# atividade_maquina_turing_Diego
+# RAs
+**Diogo Varela - 172316253**
+**Gabriel Fernandes - 172317728**
