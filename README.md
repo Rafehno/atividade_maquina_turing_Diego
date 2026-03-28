@@ -1,4 +1,4 @@
 # RAs
-> **Diogo Varela - 172316253**
+- **Diogo Varela - 172316253**
 
->  **Gabriel Fernandes - 172317728**
+- **Gabriel Fernandes - 172317728**
